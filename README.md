@@ -1,6 +1,6 @@
 ### Hi there 👋
-ETH (and ETH-like chains): 0x41142011d5c634B1BF7712dc06011b3EaBbcda04
-BTC: bc1q7cu8c7waa3g45z4cgegrqnr8zl6ywcs5y89wcj
+* **ETH** (and ETH-like chains): `0x41142011d5c634B1BF7712dc06011b3EaBbcda04`
+* **BTC**: `bc1q7cu8c7waa3g45z4cgegrqnr8zl6ywcs5y89wcj`
 
 <!--
 **yglukhov/yglukhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
